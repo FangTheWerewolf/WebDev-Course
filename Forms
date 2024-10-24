@@ -1,0 +1,20 @@
+
+<input>
+Type attribute changes what the input will be
+
+<input type=“" placeholder="">
+
+Placeholder is the text that appears before you type
+
+Labels
+
+Labels are linked to whatever input is in the script
+
+For instance 
+
+<div class=“preference”>
+	<label form="cheese”>Do you like cheese?</label>
+	<input type="checkox” name="cheese” id=cheese”>
+</div>
+
+<!--Keeping this here for now-->
